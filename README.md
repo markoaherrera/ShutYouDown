@@ -11,6 +11,7 @@ Perform a series of tasks before shutting down.
 * Timer
 * Task Performer 
   * Will only run shutdown at first
+
 ####Milestone 1.5
 * Implement MEF to run different tasks
   * Copy Files from temp popcorn-time temp directory.
