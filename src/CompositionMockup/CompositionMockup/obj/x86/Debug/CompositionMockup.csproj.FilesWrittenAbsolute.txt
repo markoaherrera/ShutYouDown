@@ -1,0 +1,5 @@
+/home/marko/progra/Projects2015/ShutYouDown/src/CompositionMockup/CompositionMockup/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/marko/progra/Projects2015/ShutYouDown/src/CompositionMockup/CompositionMockup/bin/Debug/CompositionMockup.exe.mdb
+/home/marko/progra/Projects2015/ShutYouDown/src/CompositionMockup/CompositionMockup/bin/Debug/CompositionMockup.exe
+/home/marko/progra/Projects2015/ShutYouDown/src/CompositionMockup/CompositionMockup/obj/x86/Debug/CompositionMockup.exe
+/home/marko/progra/Projects2015/ShutYouDown/src/CompositionMockup/CompositionMockup/obj/x86/Debug/CompositionMockup.exe.mdb

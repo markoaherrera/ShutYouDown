@@ -1,0 +1,5 @@
+/home/marko/progra/Projects2015/ShutYouDown/src/MockUps/MockUps/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/marko/progra/Projects2015/ShutYouDown/src/MockUps/MockUps/bin/Debug/MockUps.exe.mdb
+/home/marko/progra/Projects2015/ShutYouDown/src/MockUps/MockUps/bin/Debug/MockUps.exe
+/home/marko/progra/Projects2015/ShutYouDown/src/MockUps/MockUps/obj/x86/Debug/MockUps.exe
+/home/marko/progra/Projects2015/ShutYouDown/src/MockUps/MockUps/obj/x86/Debug/MockUps.exe.mdb
