@@ -1,5 +1,6 @@
 ﻿using System;
 using MockupContracts;
+using System.Configuration;
 using System.ComponentModel.Composition;
 using System.ComponentModel.Composition.Hosting;
 
@@ -17,7 +18,9 @@ namespace CompositionMockup
 			var catalog = new AggregateCatalog ();
 			// I bet this is for import parts
 			catalog.Catalogs.Add (new AssemblyCatalog (typeof(MainClass).Assembly));
-			catalog.Catalogs.Add (new DirectoryCatalog ("/home/marko/progra/Projects2015/ShutYouDown/src/CompositionMockup/MockupParts/bin/Debug"));
+			catalog.Catalogs.Add (new DirectoryCatalog (
+                ConfigurationManager.AppSettings["DirectoryCatalog"]));
+                //"/home/marko/progra/Projects2015/ShutYouDown/src/CompositionMockup/MockupParts/bin/Debug"));
 
 			_container = new CompositionContainer (catalog);
 
