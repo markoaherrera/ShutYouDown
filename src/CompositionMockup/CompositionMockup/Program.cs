@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using MockupContracts;
 using System.Configuration;
 using System.ComponentModel.Composition;
@@ -10,8 +11,10 @@ namespace CompositionMockup
 	{
 		private CompositionContainer _container;
 
-		[Import(typeof(IMockupTask))]
-		public IMockupTask mockupTask;
+        [ImportMany]
+        // public List<IMockupTask> mockupTasks { get; private set; }
+		// public Lazy<IMockupTask>[] mockupTasks;
+        public List<Lazy<IMockupTask>> mockupTasks;
 
 		private MainClass()
 		{
@@ -35,8 +38,14 @@ namespace CompositionMockup
 		{
 			//Console.WriteLine ("Hello World!");
 			MainClass c = new MainClass();
-			c.mockupTask.ExecuteMockupTask ();
+            foreach (var item in c.mockupTasks)
+            {
+                // item.ExecuteMockupTask();  // if not lazy
+                item.Value.ExecuteMockupTask();
+            }
+			// c.mockupTask.ExecuteMockupTask ();
 
+            Console.ReadLine();
 		}
 	}
 }
