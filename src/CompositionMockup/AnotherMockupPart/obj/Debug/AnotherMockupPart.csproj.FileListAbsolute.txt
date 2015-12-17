@@ -1,0 +1,9 @@
+C:\W\Personal\Projects\ShutYouDown\src\CompositionMockup\AnotherMockupPart\bin\Debug\AnotherMockupPart.dll
+C:\W\Personal\Projects\ShutYouDown\src\CompositionMockup\AnotherMockupPart\bin\Debug\AnotherMockupPart.pdb
+C:\W\Personal\Projects\ShutYouDown\src\CompositionMockup\AnotherMockupPart\bin\Debug\MockupContracts.dll
+C:\W\Personal\Projects\ShutYouDown\src\CompositionMockup\AnotherMockupPart\bin\Debug\MockupContracts.pdb
+C:\W\Personal\Projects\ShutYouDown\src\CompositionMockup\AnotherMockupPart\obj\Debug\AnotherMockupPart.csprojResolveAssemblyReference.cache
+C:\W\Personal\Projects\ShutYouDown\src\CompositionMockup\AnotherMockupPart\obj\Debug\AnotherMockupPart.dll
+C:\W\Personal\Projects\ShutYouDown\src\CompositionMockup\AnotherMockupPart\obj\Debug\AnotherMockupPart.pdb
+C:\W\Personal\Projects\ShutYouDown\src\CompositionMockup\Catalog\AnotherMockupPart.dll
+C:\W\Personal\Projects\ShutYouDown\src\CompositionMockup\Catalog\AnotherMockupPart.pdb

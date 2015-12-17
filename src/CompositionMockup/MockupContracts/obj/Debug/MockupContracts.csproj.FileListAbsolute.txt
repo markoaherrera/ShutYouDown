@@ -1,0 +1,4 @@
+C:\W\Personal\Projects\ShutYouDown\src\CompositionMockup\MockupContracts\bin\Debug\MockupContracts.dll
+C:\W\Personal\Projects\ShutYouDown\src\CompositionMockup\MockupContracts\bin\Debug\MockupContracts.pdb
+C:\W\Personal\Projects\ShutYouDown\src\CompositionMockup\MockupContracts\obj\Debug\MockupContracts.dll
+C:\W\Personal\Projects\ShutYouDown\src\CompositionMockup\MockupContracts\obj\Debug\MockupContracts.pdb
